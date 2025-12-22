@@ -1,18 +1,12 @@
-# Authors
-
+# _data/authors.yml
 Xiaofei Wang:
-  name        : "Xiaofei Wang"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  name    : "Xiaofei Wang"
+  uri     : "https://mathswang.github.io"
+  email   : "none@example.org"
+  bio     : "Short biography for the left-hand sidebar"
+  avatar  : "/assets/images/profile.png"
+  location: "Earth"
+  employer: "Northeast Normal University"
+  github  : "mathswang"
+  # scholar: "https://scholar.google.com/..."   # 有就填，没有就删
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
