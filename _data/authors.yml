@@ -1,7 +1,7 @@
 # _data/authors.yml
 Xiaofei Wang:
   name    : "Xiaofei Wang"
-  uri     : "https://mathswang.github.io"
+  uri     : "https://mathswang.github.io/myweb"
   email   : "none@example.org"
   bio     : "Short biography for the left-hand sidebar"
   avatar  : "/assets/images/profile.png"
