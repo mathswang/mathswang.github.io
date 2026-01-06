@@ -1,6 +1,6 @@
 # Xiaofei Wang Lab Website
 
-**Live site:** https://mathswang.github.io/  
+**Live site:** https://mathswang.github.io/myweb  
 **Stack:** Jekyll (academicpages / Minimal Mistakes) · GitHub Actions · GitHub Pages
 
 This repository hosts our lab website. Content is written in Markdown and simple YAML.
