@@ -25,3 +25,13 @@ We are part of XXX University / Institute.
 
 [Full publication list]({{ "/publications/" | relative_url }})
 
+## Code & Projects
+
+<div class="entries-grid">
+{% assign projs = site.portfolio | sort: "date" | reverse %}
+{% for post in projs limit:6 %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+</div>
+
+[All projects]({{ "/portfolio/" | relative_url }})
