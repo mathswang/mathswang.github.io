@@ -30,7 +30,7 @@ We are part of XXX University / Institute.
 <div class="entries-grid">
 {% assign projs = site.portfolio | sort: "date" | reverse %}
 {% for post in projs limit:6 %}
-  {% include archive-single.html type="grid" %}
+  {% include archive-single.html type="list" %}
 {% endfor %}
 </div>
 
