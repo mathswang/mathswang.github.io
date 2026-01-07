@@ -13,3 +13,15 @@ We are part of XXX University / Institute.
 
 **News**
 - 2025/01: One paper accepted by ...
+
+- ## Recent Publications
+
+<div class="entries-list">
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% for post in pubs limit:5 %}
+  {% include archive-single.html type="list" %}
+{% endfor %}
+</div>
+
+[Full publication list]({{ "/publications/" | relative_url }})
+
