@@ -13,7 +13,7 @@
   Journal of Machine Learning Research(JMLR) 2020  
   <br>
   
-- Spectral methods for learning discrete latent tree models[[paper](https://mathswang.github.io/files/paper2017.pdf)][[paper]([https://mathswang.github.io/files/paper2017.pdf](https://intlpress.com/site/pub/files/_fulltext/journals/sii/2017/0010/0004/SII-2017-0010-0004-a011.pdf))]<br>
+- Spectral methods for learning discrete latent tree models[[paper](https://mathswang.github.io/files/paper2017.pdf)][[paper](https://intlpress.com/site/pub/files/_fulltext/journals/sii/2017/0010/0004/SII-2017-0010-0004-a011.pdf)]<br>
   **Xiaofei Wang**, Jianhua Guo∗, Lizhu Hao, Nevin L. Zhang<br>
   Statistics and Its Interface 2017
   <br>
