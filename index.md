@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Welcome to our group!"
+author_profile: true
+author: Xiaofei Wang   # 必须和 authors.yml 的 key 完全一致
+---
+
 - Propagation Computation for Mixed Bayesian Networks Using Minimal Strong Triangulation[[paper](https://mathswang.github.io/files/2024_Propagation Computation_mathematics.pdf)]<br>
   Yao Liu, Shuai Wang, Can Zhou, **Xiaofei Wang∗**<br>
   Mathematics 2024  
