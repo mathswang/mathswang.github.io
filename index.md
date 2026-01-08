@@ -9,7 +9,7 @@ author: Xiaofei Wang   # 必须和 authors.yml 的 key 完全一致
   Yao Liu, Shuai Wang, Can Zhou, **Xiaofei Wang∗**<br>
   Mathematics 2024
   
-- Paralinear Distance and its Algorithm for Hierarchical Clustering of High-dimensional Discrete Variables[[paper](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4551916)]<br>
+- Paralinear Distance and Its Algorithm for Hierarchical Clustering of High-dimensional Discrete Variables[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0888613X24000203)]<br>
   Shuai Wang, Lizhu Hao, **Xiaofei Wang∗**, Jianhua Guo∗<br>
   International Journal of Approximate Reasoning 2024
   
@@ -27,7 +27,7 @@ author: Xiaofei Wang   # 必须和 authors.yml 的 key 完全一致
 
 - Finding the Minimal Set for Collapsible Graphical Models[[paper](https://www.ams.org/journals/proc/2011-139-01/S0002-9939-2010-10509-9/S0002-9939-2010-10509-9.pdf)]<br>
   **Xiaofei Wang**, Jianhua Guo, Xuming He<br>
-  PROCEEDINGS OF THE AMERICAN MATHEMATICAL SOCIETY 2011
+  Proceedings of the American Mathematical Society 2011
 
 - Junction Trees of General Graphs[[paper](https://link.springer.com/content/pdf/10.1007/s11464-008-0023-z.pdf?pdf=inline+link)]<br>
   **Xiaofei Wang**, Jianhua Guo∗<br>
