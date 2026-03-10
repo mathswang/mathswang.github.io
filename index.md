@@ -5,8 +5,8 @@ author_profile: true
 author: Xiaofei Wang   # 必须和 authors.yml 的 key 完全一致
 ---
 
-- Independence Test for Linear Non-Gaussian Data and Applications in Causal Discovery[[paper](https://openreview.net/forum?id=Uc1EAICxTD)]
-  Yiqing Li, Xiaofei Wang, Boyang Sun, Yewei Xia, Kun Zhang
+- Independence Test for Linear Non-Gaussian Data and Applications in Causal Discovery[[paper](https://openreview.net/forum?id=Uc1EAICxTD)]<br>
+  Yiqing Li, Xiaofei Wang, Boyang Sun, Yewei Xia, Kun Zhang<br>
   The Fourteenth International Conference on Learning Representations (ICLR) 2026
 
 - Learning semi-parametric tree models from mixed data[[paper](https://www.sciencedirect.com/science/article/pii/S0004370226000251)]<br>
