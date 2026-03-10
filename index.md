@@ -10,11 +10,11 @@ author: Xiaofei Wang   # 必须和 authors.yml 的 key 完全一致
   The Fourteenth International Conference on Learning Representations (ICLR) 2026
 
 - Learning semi-parametric tree models from mixed data[[paper](https://www.sciencedirect.com/science/article/pii/S0004370226000251)]<br>
-  Can Zhou; Nan Li; Shuai Wang; **Xiaofei Wang***; Jianhua Guo*<br>
+  Can Zhou, Nan Li, Shuai Wang, **Xiaofei Wang***, Jianhua Guo*<br>
   Artificial Intelligence 2026
 
 - Extracting Rare Dependence Patterns via Adaptive Sample Reweighting[[paper](https://openreview.net/pdf?id=iIPAdNq9cq)]<br>
-  Yiqing Li, Yewei Xia, **Xiaofei Wang**; Zhengming Chen; Liuhua Peng; Mingming Gong*; Kun Zhang*<br>
+  Yiqing Li, Yewei Xia, **Xiaofei Wang**, Zhengming Chen, Liuhua Peng, Mingming Gong*, Kun Zhang*<br>
   Proceedings of the 42nd International Conference on Machine Learning (ICML) 2025
 
 - Propagation Computation for Mixed Bayesian Networks Using Minimal Strong Triangulation[[paper](https://www.mdpi.com/2227-7390/12/13/1925)]<br>
