@@ -10,7 +10,7 @@ author: Xiaofei Wang   # 必须和 authors.yml 的 key 完全一致
   The Fourteenth International Conference on Learning Representations (ICLR) 2026
 
 - Learning Semi-parametric Tree Models from Mixed Data[[paper](https://www.sciencedirect.com/science/article/pii/S0004370226000251)]<br>
-  Can Zhou, Nan Li, Shuai Wang, **Xiaofei Wang***, Jianhua Guo* <br>
+  Can Zhou, Nan Li, Shuai Wang, **Xiaofei Wang*, **Jianhua Guo* <br>
   Artificial Intelligence 2026
 
 - Extracting Rare Dependence Patterns via Adaptive Sample Reweighting[[paper](https://openreview.net/pdf?id=iIPAdNq9cq)]<br>
