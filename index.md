@@ -10,10 +10,6 @@ author: Xiaofei Wang   # 必须和 authors.yml 的 key 完全一致
   The Fourteenth International Conference on Learning Representations (ICLR) 2026
 
 - Learning Semi-parametric Tree Models from Mixed Data[[paper](https://www.sciencedirect.com/science/article/pii/S0004370226000251)]<br>
-  Can Zhou, Nan Li, Shuai Wang, **Xiaofei Wang'*'**, Jianhua Guo* <br>
-  Artificial Intelligence 2026
-
-- Learning Semi-parametric Tree Models from Mixed Data[[paper](https://www.sciencedirect.com/science/article/pii/S0004370226000251)]<br>
   Can Zhou, Nan Li, Shuai Wang, **Xiaofei Wang\***, Jianhua Guo* <br>
   Artificial Intelligence 2026
 
@@ -22,15 +18,15 @@ author: Xiaofei Wang   # 必须和 authors.yml 的 key 完全一致
   Proceedings of the 42nd International Conference on Machine Learning (ICML) 2025
 
 - Propagation Computation for Mixed Bayesian Networks Using Minimal Strong Triangulation[[paper](https://www.mdpi.com/2227-7390/12/13/1925)]<br>
-  Yao Liu, Shuai Wang, Can Zhou, **Xiaofei Wang*** <br>
+  Yao Liu, Shuai Wang, Can Zhou, **Xiaofei Wang\*** <br>
   Mathematics 2024
   
 - Paralinear Distance and Its Algorithm for Hierarchical Clustering of High-dimensional Discrete Variables[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0888613X24000203)]<br>
-  Shuai Wang, Lizhu Hao, **Xiaofei Wang***, Jianhua Guo* <br>
+  Shuai Wang, Lizhu Hao, **Xiaofei Wang\***, Jianhua Guo* <br>
   International Journal of Approximate Reasoning 2024
   
 - Learning Mixed Latent Tree Models[[paper](https://jmlr.csail.mit.edu/papers/v21/20-365.html)]<br>
-  Can Zhou, **Xiaofei Wang***, Jianhua Guo* <br>
+  Can Zhou, **Xiaofei Wang\***, Jianhua Guo* <br>
   Journal of Machine Learning Research (JMLR) 2020
   
 - Spectral Methods for Learning Discrete Latent Tree Models[[paper](https://intlpress.com/site/pub/files/_fulltext/journals/sii/2017/0010/0004/SII-2017-0010-0004-a011.pdf)]<br>
