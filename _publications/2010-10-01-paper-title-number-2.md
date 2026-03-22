@@ -1,4 +1,4 @@
-
+---
 layout: single
 title: "Welcome to our group!"
 author_profile: true
