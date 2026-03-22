@@ -5,6 +5,9 @@ author_profile: true
 author: Xiaofei Wang   # 必须和 authors.yml 的 key 完全一致
 ---
 
+- Reliable Latent-Tree Clustering under Static and Drifting Distributions[[code](https://github.com/mathswang/LatentTreeClustering)]<br>
+  Sizhuo Wang, Xiaoyue Zhang, Yao Liu, Shengyu Han, Xiaoyu Cui, **Xiaofei Wang\*** <br>
+  Submitted to JMLR
 - Independence Test for Linear Non-Gaussian Data and Applications in Causal Discovery[[paper](https://openreview.net/forum?id=Uc1EAICxTD)]<br>
   Yiqing Li, **Xiaofei Wang**, Boyang Sun, Yewei Xia, Kun Zhang<br>
   The Fourteenth International Conference on Learning Representations (ICLR) 2026
