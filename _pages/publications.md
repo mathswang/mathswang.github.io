@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Paper List on Latent Tree Models and Causality Learning!"
+title: "Paper List on Latent Tree Models and Causality Learning"
 permalink: /publications/
 author_profile: true
 author: Xiaofei Wang
