@@ -15,6 +15,6 @@ I am interested in research areas including latent structure, causal discovery, 
 
 
 **Research interests:** <br>
-★ latent structure
-★ causal discovery
-★ causal representation learning (CRL)
+★ latent structure <br>
+★ causal discovery <br>
+★ causal representation learning (CRL) <br>
