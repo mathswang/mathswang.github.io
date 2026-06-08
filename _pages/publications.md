@@ -9,6 +9,13 @@ author: Xiaofei Wang
 <ul class="pub-list">
 
   <li>
+    <span class="pub-title">Learning Mixed Latent Forest Models</span>
+    <a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2026.2653765">[paper]</a><br>
+    Can Zhou, <strong>Xiaofei Wang*</strong>, Jianhua Guo*<br>
+    Journal of Computational and Graphical Statistics 2026
+  </li>
+
+  <li>
     <span class="pub-title">Reliable Latent-Tree Clustering under Static and Drifting Distributions</span>
     <a href="https://github.com/mathswang/LatentTreeClustering">[code]</a><br>
     Sizhuo Wang, Xiaoyue Zhang, Yao Liu, Shengyu Han, Xiaoyu Cui, <strong>Xiaofei Wang*</strong><br>
